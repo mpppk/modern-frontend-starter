@@ -1,0 +1,14 @@
+{
+  "name": "modern-frontend-starter",
+  "version": "0.0.1",
+  "description": "modern frontend starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mpppk",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.12.14"
+  }
+}
