@@ -1,1 +1,1 @@
-document.write("It works.");
+export default () => document.write("It works.");
